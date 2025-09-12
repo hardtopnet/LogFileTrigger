@@ -1,0 +1,5 @@
+{
+  "LogFilePath": "c:\\Program Files\\Sunshine\\config\\sunshine.log",
+  "Pattern": "DISCONNECTED",
+  "Command": "taskkill /F /IM moondeckstream.exe"
+}
