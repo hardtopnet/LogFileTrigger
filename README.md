@@ -13,7 +13,7 @@ LogFileTrigger is a lightweight background application that monitors a file for 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/LogFileTrigger.git
+    git clone https://github.com/hardtopnet/LogFileTrigger.git
     ```
 2. Navigate to the project directory:
     ```bash
